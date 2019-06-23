@@ -1,0 +1,13 @@
+.FriendList {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 auto;
+    opacity: 0.6;
+  }
+  
+    
+  
+    
+  
